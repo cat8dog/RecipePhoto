@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  RecipeCollectionViewController.h
 //  RecipePhoto
 //
 //  Created by Catherine Reyto on 2015-04-29.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface RecipeCollectionViewController : UICollectionViewController
 
 @end
-
